@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/manana-hay-clases",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a manana-hay-clases",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/manana-hay-clases.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://mejorhistoria.com/manana-hay-clases/"
+    },
+    "homepage": "https://mejorhistoria.com/manana-hay-clases/"
+}
